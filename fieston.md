@@ -7,7 +7,7 @@ El DevuFieston es un evento que estara lleno de diferentes dinamicas, te esperam
 Presupuesto: $50,000 DevuPesos
 
 - Lugar:
-- Comida:
+- Comida: Tamales Moso = $15,000 DevuPesos
 - Entretenimiento:
 
 Total: $00,000 DevuPesos
