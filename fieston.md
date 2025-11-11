@@ -6,7 +6,7 @@ El DevuFieston es un evento que estara lleno de diferentes dinamicas, te esperam
 
 Presupuesto: $50,000 DevuPesos
 
-- Lugar:
+- Lugar: El teatro llave = $30,000 DevuPesos
 - Comida:
 - Entretenimiento:
 
