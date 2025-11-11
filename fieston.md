@@ -8,6 +8,6 @@ Presupuesto: $50,000 DevuPesos
 
 - Lugar:
 - Comida:
-- Entretenimiento:
+- Entretenimiento: Orquesta Sinfonica = $15,000 DevuPesos
 
 Total: $00,000 DevuPesos
