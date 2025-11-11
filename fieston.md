@@ -6,7 +6,7 @@ El DevuFieston es un evento que estara lleno de diferentes dinamicas, te esperam
 
 Presupuesto: $50,000 DevuPesos
 
-- Lugar:
+- Lugar: salon de fiestas gaby = $20,000 DevuPesos
 - Comida:
 - Entretenimiento:
 
