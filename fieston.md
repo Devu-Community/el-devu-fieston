@@ -8,6 +8,6 @@ Presupuesto: $50,000 DevuPesos
 
 - Lugar:
 - Comida:
-- Entretenimiento:
+- Entretenimiento: Payasito Chicharrin = $5,000 DevuPesos
 
 Total: $00,000 DevuPesos
