@@ -8,6 +8,6 @@ Presupuesto: $50,000 DevuPesos
 
 - Lugar:
 - Comida:
-- Entretenimiento:
+- Entretenimiento: Dani Flow = $10,000 DevuPesos
 
 Total: $00,000 DevuPesos
